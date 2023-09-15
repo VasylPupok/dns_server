@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "dns_resource_record.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "netdb.h": "c",
+        "in.h": "c",
+        "ip.h": "c",
+        "cvector.h": "c",
+        "hostname.h": "c",
+        "time.h": "c",
+        "stdint.h": "c"
+    }
+}

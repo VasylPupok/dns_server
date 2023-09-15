@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/kali/Code/Iron_crosses/dns_server/build",
+  "command": "/usr/bin/clang-15  -I/home/kali/Code/Iron_crosses/dns_server -I/home/kali/Code/Iron_crosses/dns_server/../../third-party -g -o CMakeFiles/dns_server.dir/main.c.o -c /home/kali/Code/Iron_crosses/dns_server/main.c",
+  "file": "/home/kali/Code/Iron_crosses/dns_server/main.c",
+  "output": "CMakeFiles/dns_server.dir/main.c.o"
+},
+{
+  "directory": "/home/kali/Code/Iron_crosses/dns_server/build",
+  "command": "/usr/bin/clang-15  -I/home/kali/Code/Iron_crosses/dns_server -I/home/kali/Code/Iron_crosses/dns_server/../../third-party -g -o CMakeFiles/dns_server.dir/dns/server/server.c.o -c /home/kali/Code/Iron_crosses/dns_server/dns/server/server.c",
+  "file": "/home/kali/Code/Iron_crosses/dns_server/dns/server/server.c",
+  "output": "CMakeFiles/dns_server.dir/dns/server/server.c.o"
+},
+{
+  "directory": "/home/kali/Code/Iron_crosses/dns_server/build",
+  "command": "/usr/bin/clang-15  -I/home/kali/Code/Iron_crosses/dns_server -I/home/kali/Code/Iron_crosses/dns_server/../../third-party -g -o CMakeFiles/dns_server.dir/dns/utils/hostname.c.o -c /home/kali/Code/Iron_crosses/dns_server/dns/utils/hostname.c",
+  "file": "/home/kali/Code/Iron_crosses/dns_server/dns/utils/hostname.c",
+  "output": "CMakeFiles/dns_server.dir/dns/utils/hostname.c.o"
+},
+{
+  "directory": "/home/kali/Code/Iron_crosses/dns_server/build",
+  "command": "/usr/bin/clang-15  -I/home/kali/Code/Iron_crosses/dns_server -I/home/kali/Code/Iron_crosses/dns_server/../../third-party -g -o CMakeFiles/dns_server.dir/third-party/avsej/hashset/hashset.c.o -c /home/kali/Code/Iron_crosses/dns_server/third-party/avsej/hashset/hashset.c",
+  "file": "/home/kali/Code/Iron_crosses/dns_server/third-party/avsej/hashset/hashset.c",
+  "output": "CMakeFiles/dns_server.dir/third-party/avsej/hashset/hashset.c.o"
+},
+{
+  "directory": "/home/kali/Code/Iron_crosses/dns_server/build/dns/message",
+  "command": "/usr/bin/clang-15   -g -o CMakeFiles/dns_message.dir/dns_message.c.o -c /home/kali/Code/Iron_crosses/dns_server/dns/message/dns_message.c",
+  "file": "/home/kali/Code/Iron_crosses/dns_server/dns/message/dns_message.c",
+  "output": "dns/message/CMakeFiles/dns_message.dir/dns_message.c.o"
+},
+{
+  "directory": "/home/kali/Code/Iron_crosses/dns_server/build/dns/message",
+  "command": "/usr/bin/clang-15   -g -o CMakeFiles/dns_message.dir/header/dns_header.c.o -c /home/kali/Code/Iron_crosses/dns_server/dns/message/header/dns_header.c",
+  "file": "/home/kali/Code/Iron_crosses/dns_server/dns/message/header/dns_header.c",
+  "output": "dns/message/CMakeFiles/dns_message.dir/header/dns_header.c.o"
+},
+{
+  "directory": "/home/kali/Code/Iron_crosses/dns_server/build/dns/message",
+  "command": "/usr/bin/clang-15   -g -o CMakeFiles/dns_message.dir/question/dns_question.c.o -c /home/kali/Code/Iron_crosses/dns_server/dns/message/question/dns_question.c",
+  "file": "/home/kali/Code/Iron_crosses/dns_server/dns/message/question/dns_question.c",
+  "output": "dns/message/CMakeFiles/dns_message.dir/question/dns_question.c.o"
+},
+{
+  "directory": "/home/kali/Code/Iron_crosses/dns_server/build/dns/message",
+  "command": "/usr/bin/clang-15   -g -o CMakeFiles/dns_message.dir/resource_record/dns_resource_record.c.o -c /home/kali/Code/Iron_crosses/dns_server/dns/message/resource_record/dns_resource_record.c",
+  "file": "/home/kali/Code/Iron_crosses/dns_server/dns/message/resource_record/dns_resource_record.c",
+  "output": "dns/message/CMakeFiles/dns_message.dir/resource_record/dns_resource_record.c.o"
+}
+]

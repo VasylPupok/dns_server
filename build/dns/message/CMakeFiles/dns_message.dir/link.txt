@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar-15 qc libdns_message.a CMakeFiles/dns_message.dir/dns_message.c.o CMakeFiles/dns_message.dir/header/dns_header.c.o CMakeFiles/dns_message.dir/question/dns_question.c.o CMakeFiles/dns_message.dir/resource_record/dns_resource_record.c.o
+/usr/bin/llvm-ranlib-15 libdns_message.a

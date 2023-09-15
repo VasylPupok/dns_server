@@ -1,0 +1,1 @@
+/usr/bin/clang-15 -g CMakeFiles/dns_server.dir/main.c.o CMakeFiles/dns_server.dir/dns/server/server.c.o CMakeFiles/dns_server.dir/dns/utils/hostname.c.o "CMakeFiles/dns_server.dir/third-party/avsej/hashset/hashset.c.o" -o dns_server  dns/message/libdns_message.a 
